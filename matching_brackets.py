@@ -14,7 +14,6 @@ def is_valid(s):
                 for i in range(2):
                     bracket_stack.pop()
 
-    print(bracket_stack)
 
     if bracket_stack == []:
         return True
