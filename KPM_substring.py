@@ -1,3 +1,5 @@
+# Uses the KPM algorithm to check whether a string, s exists in a target string, target
+
 def is_substring(s,target):
     
     pos1 = 0
